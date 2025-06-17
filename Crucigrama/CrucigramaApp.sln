@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrucigramaApp", "CrucigramaApp\CrucigramaApp.csproj", "{E266B334-9247-4842-9E56-003F0561FD86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E266B334-9247-4842-9E56-003F0561FD86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E266B334-9247-4842-9E56-003F0561FD86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E266B334-9247-4842-9E56-003F0561FD86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E266B334-9247-4842-9E56-003F0561FD86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A843B922-2D3F-4C27-95E2-703819960199}
+	EndGlobalSection
+EndGlobal
